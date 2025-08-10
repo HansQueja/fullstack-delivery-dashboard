@@ -1,8 +1,7 @@
 # Fullstack AI-Driven Delivery Dashboard with Profiling & Analytics
 
 ## 📌 Overview  
-The **Fullstack AI-Driven Delivery Dashboard** is a multi-service platform designed for **driver, mechanic, and helper profiling** with integrated **AI-powered analytics**.  
-It includes a **Laravel backend API**, **Next.js frontend UI**, a **Flask AI microservice**, and **Metabase dashboards** for visual analytics — all orchestrated via Docker.
+The **Fullstack AI-Driven Delivery Dashboard** is a multi-service platform designed for **driver, mechanic, and helper profiling** with integrated **AI-powered analytics**. It includes a **Laravel backend API**, **Next.js frontend UI**, a **Flask AI microservice**, and **Metabase dashboards** for visual analytics — all orchestrated via Docker.
 
 <img width="2731" height="1612" alt="fullstack01" src="https://github.com/user-attachments/assets/60a3eb90-35cd-484c-b248-688659d3c460" />
 
@@ -155,5 +154,6 @@ Available Visualizations:
 
 ## 📜 License
 MIT License — Feel free to modify and distribute.
+
 
 
