@@ -100,7 +100,7 @@ docker-compose up --watch
 ## 📦 Installation & Setup
 ### 1. Clone Repository
 ```bash
-git clone <REPO_URL>
+git clone [<REPO_URL>](https://github.com/HansQueja/fullstack-delivery-dashboard)
 cd fullstack-ai-dashboard
 ```
 ### 2. Configure Environment Variables
@@ -155,4 +155,5 @@ Available Visualizations:
 
 ## 📜 License
 MIT License — Feel free to modify and distribute.
+
 
