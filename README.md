@@ -90,6 +90,11 @@ docker-compose up --build
 ```
 This launches all microservices and makes them available locally.
 
+To enable hot-reload on Next.js, run the following:
+```bash
+docker-compose up --watch
+```
+
 ---
 
 ## 📦 Installation & Setup
@@ -150,3 +155,4 @@ Available Visualizations:
 
 ## 📜 License
 MIT License — Feel free to modify and distribute.
+
